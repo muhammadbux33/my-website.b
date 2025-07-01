@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Web World B</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, I am Bux!</h1>
+  <p>This is my first website.</p>
+</body>
+</html>
